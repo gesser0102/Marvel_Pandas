@@ -2,8 +2,8 @@ import requests
 import hashlib
 import pandas as pd
 
-public_key = '11ce4fcc9652637dc82c8541bd49f16f'
-private_key = '0cd786c152a6035a12a3ed841fca8e85fbd09353'
+public_key = ''
+private_key = ''
 endpoint = 'https://gateway.marvel.com/v1/public/characters'
 
 timestamp = '1'  
